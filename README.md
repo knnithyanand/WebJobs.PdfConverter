@@ -13,7 +13,7 @@ Azure WebJob demo to convert PDF files to a ser of images (one per page).
 
 ### Build Project
 
-- Download the GhostScript 32 bit assembly from this link.
+- Download the GhostScript 32 bit assembly from [this link](https://ghostscript.com/download/gsdnld.html).
 - After you run the installer, the assembly that you need will be at the following location:
   > C:\Program Files (x86)\gs\gs9.20\bin\gsdll32.dll
   
